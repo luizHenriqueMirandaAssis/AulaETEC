@@ -1,2 +1,0 @@
-Aula de Git 21/02/2019
-Utilizando o CMDER
